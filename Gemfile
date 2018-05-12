@@ -8,6 +8,7 @@ gem 'terminal-table'
 gem 'simple_form'
 gem 'ransack'
 gem 'kaminari', '>= 0.17.0'
+gem 'apartment'
 
 group :assets do
   gem 'uglifier'
